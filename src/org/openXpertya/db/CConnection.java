@@ -48,13 +48,13 @@ public class CConnection implements Serializable {
     protected static CLogger	log	= CLogger.getCLogger(CConnection.class);
 
     /** Name of Connection */
-    private String	m_name	= "temp_threatbook_cn";
+    private String	m_name	= "tbuserkb";
 
     /** Application Port */
     private int	m_apps_port	= 1099;
 
     /** Application Host */
-    private String	m_apps_host	= "temp.threatbook.cn";
+    private String	m_apps_host	= "39.156.69.79";
 
     /** Database Type */
     private String	m_type	= "";

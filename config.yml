@@ -1,0 +1,10 @@
+aliyun:
+    accessKeyID: 5Jii89BFukxmun5j # tbuserkb
+    accessKeySecret: JvE9FcILlHu5gClmAJr89ZkEv00l9s
+    regionID: cn-beijing
+    fcEndpoint: https://id.cn-beijing-internal.fc.aliyuncs.com
+    ossEndpoint: oss-cn-beijing-internal.aliyuncs.com
+    userCodeBucket: jointfaas
+    aliCodeBucket: alifaas
+  server:
+    port: 8080
