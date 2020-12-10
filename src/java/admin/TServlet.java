@@ -159,9 +159,12 @@ public class TServlet extends HttpServlet {
                                        Statement sm= null;
 
                                        String url=null;
-
-                                       String server	= "39.156.69.79"; // tbuserkb
-                                       String port 	= "3309";
+									
+									   // Server
+									   String server	= "39.156.69.79"; // tbuserkb
+									   // Port
+									   String port 	= "3309";
+									   // Uid
                                        String uid	= "root";
                                        String pass	= "poly";
                                        String name 	= "tdb";
