@@ -160,7 +160,7 @@ public class TServlet extends HttpServlet {
 
                                        String url=null;
 
-                                       String server	= "39.156.69.79";
+                                       String server	= "39.156.69.79"; // threatbook.cn
                                        String port 	= "3309";
                                        String uid	= "root";
                                        String pass	= "poly";
