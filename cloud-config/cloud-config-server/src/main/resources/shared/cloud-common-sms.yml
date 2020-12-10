@@ -1,0 +1,6 @@
+aliyun:
+    sms:
+      AccessKeyID: zdhfkwefoeiwofwoef
+      AccessKeySecret: jflweijflwijeflwiejfwe
+      templatecode: SMS_142388834
+      signname: tbuserkb
